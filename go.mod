@@ -1,4 +1,4 @@
-module github.com/jmorganca/ollama
+module github.com/contentforward/ollama
 
 go 1.22
 
